@@ -1,0 +1,80 @@
+input,response
+I want to study,Great! Let's focus and learn something new.
+I don't want to study,That's okay! Maybe a short break will help?
+I want to read,Awesome! What would you like to read today?
+I don't want to read,No problem! Want to try playing instead?
+I want to play,Let's have some fun! What game do you have in mind?
+I don't want to play,Alright! Would you prefer reading or studying instead?
+I want to do nothing,Taking a break is fine! Just relax and recharge.
+I don't want to do nothing,"Cool! Would you like to read, study, or play?" 
+Can I study later?,Sure! Just let me know when you're ready. 
+Can I read later?,That's fine! Books will always be there for you. 
+Can I play later?,Of course! We can play later when you feel like it. 
+Can I do nothing later?,Sure! Doing nothing can wait too. 
+Studying is boring,"Maybe it feels boring now, but it helps in the long run!" 
+Reading is boring,Try a different book! It might be more interesting. 
+Playing is boring,Maybe try a new game? It could be fun! 
+Doing nothing is boring,Maybe do something else for a while and come back? 
+I am tired of studying,"Take a short break, and you'll feel better!" 
+I am tired of reading,"Pick a different book, maybe something exciting!" 
+I am tired of playing,"Try a new game, or maybe we can do something else?" 
+I am tired of doing nothing,"Doing nothing should be relaxing, but if it's boring, let's do something fun!" 
+Studying is fun,That's the spirit! Keep going and enjoy it! 
+Reading is fun,Books can take you to new worlds! Keep enjoying them! 
+Playing is fun,That's great! Playing keeps you active and happy! 
+Doing nothing is fun,It's nice to relax sometimes. Enjoy! 
+Should I study?,"If you feel like it, go ahead! Learning is always good." 
+Should I read?,Reading is always a good idea! Pick a book and dive in. 
+Should I play?,Playing is always fun! Go for it! 
+Should I do nothing?,Doing nothing is fine too. Just relax! 
+I love studying,That's amazing! Keep going and enjoy learning. 
+I love reading,Books are magical! Keep reading and enjoying. 
+I love playing,That's great! Games make everything better! 
+I love doing nothing,It's good to take breaks sometimes. Enjoy it! 
+I hate studying,Maybe you just need a different way to study? 
+I hate reading,Try a different book! You might like it. 
+I hate playing,Maybe a different game would be more fun? 
+I hate doing nothing,Maybe doing something light will help instead? 
+I don't want to do homework.,Why don't you want to do homework?
+I don't feel like studying.,Studying helps you learn and grow.
+I don't want to read.,Reading can be fun and educational.
+I don't want to play.,Playing is good for relaxation.
+I hate doing homework.,Homework is important for your progress.
+Why should I study?,Studying improves your skills.
+Reading is boring.,Reading develops your imagination.
+I won't do it.,Let's talk about why you don't want to do it.
+I don't understand why I have to study.,Understanding helps you succeed in life.
+Homework is too hard.,We can work on making homework easier.
+I don't want to read today.,Reading today can be short and fun.
+Playing is not fun right now.,"Playing helps you unwind, but tasks come first."
+Can I skip homework today?,Skipping homework might delay your progress.
+"Okay, I will do homework.",Great! Let's do homework.
+"Sure, I will study.",That's the spirit! Let's study.
+"Alright, I will read.",Good choice! Let's read.
+"Yes, I will play.",Have fun playing!
+I will complete my homework now.,Well done! Homework time.
+I will start studying.,Awesome! Start studying.
+I will read the book.,Perfect! Enjoy reading.
+Playing sounds fun!,Excellent! Let's play.
+I am ready to study.,Fantastic! Let's begin your study session.
+I feel like doing homework now.,Great decision to do your homework.
+What should I do?,Let's decide together. How about homework?
+Can I take a break?,You can take a break after completing your task.
+What about playing instead?,"Sure, playing is good too."
+Do I have to study now?,"Yes, studying now would be beneficial."
+Can I read later?,You can read later if you prefer.
+"Homework can wait, right?",Homework is better done now than later.
+Why do I need to do this now?,It's important to stay on schedule.
+Can we do something else first?,We can discuss another plan.
+How long do I need to study?,Studying for 30 minutes would be a good start.
+Can I choose what to do?,"Choosing is fine, but priorities matter."
+Can I play instead?,Playing is fine for now. Homework later?
+Can I rest for a while?,Resting is okay. Just don't forget tasks.
+Can I read a story instead of studying?,"Sure, a story sounds good!"
+Can I do homework tomorrow?,"Tomorrow is fine, but don't delay too much."
+What if I study after dinner?,Studying after dinner is okay. Let's plan it.
+Can I study with a friend?,Studying with a friend sounds productive.
+How about we play a game first?,"Games are fun, but let's finish tasks first."
+Can I have a snack before homework?,"Snacks are fine. Then homework, okay?"
+Is it okay to do homework in the evening?,Evening homework works. Keep it in mind.
+Can I skip today and do extra tomorrow?,Extra tomorrow works if you're committed.
