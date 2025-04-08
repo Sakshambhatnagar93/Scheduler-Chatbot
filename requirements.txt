@@ -1,5 +1,5 @@
 streamlit
 joblib
-time
-queue
-APScheduler
+scikit-learn
+apscheduler
+numpy
